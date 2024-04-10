@@ -34,3 +34,4 @@ jobs:
         with:
           name: darwin-barcelona-mautrix
           path: Build/macOS/Build/Products/Release/barcelona-mautrix
+          
